@@ -1,0 +1,2 @@
+max_desafiado	43	15
+max_retador	1	18

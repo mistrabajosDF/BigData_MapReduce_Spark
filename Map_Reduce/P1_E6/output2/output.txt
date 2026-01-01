@@ -1,0 +1,5 @@
+algo satisfecho	1973
+disconforme	2028
+muy disconforme	1973
+muy satisfecho	1973
+poco satisfecho	1965
